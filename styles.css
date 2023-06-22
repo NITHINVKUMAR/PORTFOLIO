@@ -448,7 +448,7 @@ a{
   }
 
   #project1{
-    background-image: url(./images/projects/project1p.png);
+    background-image: url(./images/projects/studynotionimg.png);
   }
 
   #project2{
@@ -460,7 +460,7 @@ a{
   }
   #project4{
     margin-left:120px;
-    background-image: url(./images/projects/Project4.png);
+    background-image: url(./images/projects/imagegallary1.png);
   }
 
   @media (max-width:1300px) {
